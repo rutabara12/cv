@@ -1,0 +1,147 @@
+@media screen {
+  
+}
+
+.head{
+    background-color: red;
+    display: flex;
+    justify-content: space-between;
+    padding: 25px;
+    width: 550px;
+    height: 68px;
+    margin-left: 350px;
+    position: fixed;
+    padding-top: -150px;
+    margin-top: -120px;
+    
+}
+img{
+  width:90px;
+  border-radius:70%; 
+  margin-top: -15px;
+}
+h2{
+  margin-top: -15px;
+  margin-bottom: 30px;
+}
+ .nav-left h2{
+  color: red;
+}
+.nav-left{
+background-color:white;
+height: 200px;
+margin-top: -20px; 
+font-size: 13px; 
+}
+li{
+  margin-left: 35px;
+  }
+  .container2{
+    background-color: rgb(238, 233, 227);
+    margin-top: -45px;
+    font-size: 13px;
+  }
+  .container2 ul{
+    color: red;
+  }
+  .part1{
+    display: flex;
+    justify-content: space-between;
+    width: 600px;
+    height: 550px;
+    margin-left: 350px;
+    padding-top: 30px; 
+    margin-top: 110px;  
+  }
+  h4{
+    margin-left: 350px;
+    margin-bottom: 0px;
+
+  }
+  .container2 p{
+    margin-left: 30px;
+  }
+  .footer{
+    background-color: red;
+    width: 600px;
+    height: 25px;
+    margin-left: 350px;
+    margin-top:30px;
+  }
+  .span{
+    display: flex;
+    
+  }
+  .iterms{
+    margin-left: 120px;
+  }
+  .boder{
+    border-radius:  20%;
+    border-top: 80px;
+    background-color: rgb(182, 189, 189);
+    border-bottom: 50px;
+    border-top-right-radius: 10px;
+  }
+  .std{
+    margin-left: 120px;
+  }
+  .shop{
+    margin-left: 120px;
+  }
+  .list{
+    color: red;
+
+  }
+  .my{
+    font-size: 20px;
+    color: red;
+    margin-left: 70px;
+
+  }
+  .jscr{
+    display: flex;
+  }
+  .item{
+    display:flex;
+    
+  }
+  .cook{
+    color: crimson;
+    margin-left: 130px;
+    font-size: 20px;
+  }
+  .nav-left h2:hover{
+    color: blue;
+  }
+  .container2 ul:hover{
+    color: blue;
+  }
+  .container2 p:hover{
+    color: blue;
+  }
+  .container2 h3:hover{
+    color: blue;
+  }.item:hover{
+    color: blue;
+  }.cook:hover{
+    color: blue;
+  }.jscr:hover{
+    color: blue;
+  }.my:hover{
+    color: blue;
+  }
+  .nav-left .boder:hover{
+    color: blue;
+  }
+  .nav-left strong:hover{
+    color: blue;
+  }
+  .nav-left .shop:hover{
+    color: blue;
+  
+    }
+    .nav-left h3{
+      margin-top: -30px;
+      margin-bottom: 30px;
+      margin-left: 110px;
+    }
