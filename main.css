@@ -76,14 +76,11 @@ li{
     margin-left: 120px;
   }
   .boder{
-    border-radius:  20%;
+    border-radius:  20px;
     border-top: 80px;
     background-color: rgb(182, 189, 189);
     border-bottom: 50px;
     border-top-right-radius: 10px;
-  }
-  .std{
-    margin-left: 120px;
   }
   .shop{
     margin-left: 120px;
